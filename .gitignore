@@ -1,0 +1,15 @@
+ble_test/windows/
+ble_test/android/
+ble_test/build/
+ble_test/ios/
+ble_test/linux/
+ble_test/macos/
+ble_test/web/
+ble_test/analysis_options.yaml
+ble_test/ble_test.iml
+ble_test/pubspec.lock
+ble_test/README.md
+pico_client/build/
+server/build/
+
+
